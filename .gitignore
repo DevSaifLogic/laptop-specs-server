@@ -1,0 +1,6 @@
+node_modules/
+.env
+database/
+laptops.json
+*.pem
+*.key
